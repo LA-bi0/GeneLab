@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pydantic
+sqlalchemy
+alembic
+python-multipart
+biopython
+pandas
+numpy
+scikit-learn
