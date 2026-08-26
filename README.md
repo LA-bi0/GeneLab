@@ -26,7 +26,7 @@ The frontend will be available at the local address shown by Vite, usually at lo
 A test FASTA sequence was successfully processed during development.
 
 - Sequence length: 180 nucleotides
-- GC-content: 43.33%
+- GC-content: 52.22%
 
 ## 🔬 Project Purpose
 
