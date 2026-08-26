@@ -1,4 +1,4 @@
-# GeneLab - AI-Powered Bioinformatic Platform
+# GeneLab - Full-Stack Bioinformatics Platform
 
 A full-stack web application designed for genomic data processing, DNA sequence analysis, and bioinformatics virtualization. 
 
